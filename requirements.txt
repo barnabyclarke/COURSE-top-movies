@@ -1,0 +1,23 @@
+certifi
+charset-normalizer==2.1.1  # Must be 2.1.1 to work (not 3.0.0)
+click
+colorama
+dominate
+Flask-Bootstrap4
+Flask-SQLAlchemy
+Flask-WTF
+Flask
+greenlet
+idna
+itsdangerous
+Jinja2
+MarkupSafe
+pip
+requests
+setuptools
+SQLAlchemy
+urllib3
+visitor
+Werkzeug
+wheel
+WTForms
